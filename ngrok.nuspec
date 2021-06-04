@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>ngrok</id>
+    <version>2.3.40</version>
+    <packageSourceUrl>https://github.com/ngrok/choco-ngrok</packageSourceUrl>
+    <owners>ngrok</owners>
+    <title>Ngrok Agent</title>
+    <authors>inconshreveable</authors>
+    <projectUrl>https://ngrok.com</projectUrl>
+    <copyright>2021 ngrok</copyright>
+    <iconUrl>https://avatars.githubusercontent.com/u/10625446</iconUrl>
+    <docsUrl>https://ngrok.com/docs</docsUrl>
+    <bugTrackerUrl>https://github.com/ngrok/choco-ngrok</bugTrackerUrl>
+    <tags>ngrok</tags>
+    <summary>ngrok secure introspectable tunnels to localhost.</summary>
+    <description>An instant, secure tunnel from a public URL to your localhost server through any NAT or firewall.</description>
+  </metadata>
+  <files>
+    <file src="tools/**" target="tools" />
+  </files>
+</package>
