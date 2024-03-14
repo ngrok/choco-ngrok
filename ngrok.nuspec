@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>ngrok</id>
-    <version>3.7.0</version>
+    <version>3.8.0</version>
     <packageSourceUrl>https://github.com/ngrok/choco-ngrok</packageSourceUrl>
     <owners>ngrok</owners>
     <title>Ngrok Agent</title>
