@@ -15,7 +15,7 @@
     <bugTrackerUrl>https://github.com/ngrok/choco-ngrok</bugTrackerUrl>
     <tags>ngrok</tags>
     <summary>ngrok secure introspectable tunnels to localhost.</summary>
-    <description>An instant, secure tunnel from a public URL to your localhost server through any NAT or firewall.</description>
+    <description>An instant, secure tunnel from a public URL to your localhost server through any NAT or firewall. If your antivirus flags ngrok as a virus, malware or Potentially Unwanted Program (PUA), please view the following page in our docs: https://ngrok.com/docs/faq/#why-is-my-antivirus-software-reporting-the-ngrok-agent-as-a-virus--malware--or-potentially-unwanted-application-pau</description>
   </metadata>
   <files>
     <file src="tools/**" target="tools" />
