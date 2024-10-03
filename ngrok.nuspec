@@ -3,19 +3,19 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>ngrok</id>
-    <version>3.16.0</version>
+    <version>3.16.1</version>
     <packageSourceUrl>https://github.com/ngrok/choco-ngrok</packageSourceUrl>
     <owners>ngrok</owners>
     <title>Ngrok Agent</title>
-    <authors>ngrok</authors>
+    <authors>inconshreveable</authors>
     <projectUrl>https://ngrok.com</projectUrl>
-    <copyright>2024 ngrok</copyright>
+    <copyright>2021 ngrok</copyright>
     <iconUrl>https://avatars.githubusercontent.com/u/10625446</iconUrl>
     <docsUrl>https://ngrok.com/docs</docsUrl>
     <bugTrackerUrl>https://github.com/ngrok/choco-ngrok</bugTrackerUrl>
     <tags>ngrok</tags>
     <summary>ngrok secure introspectable tunnels to localhost.</summary>
-    <description>ngrok is a secure ingress platform that enables developers to add global server load balancing, reverse proxy, firewall, API gateway and Kubernetes Ingress to applications and APIs. If your antivirus flags ngrok as a virus, malware or Potentially Unwanted Program (PUA), please view the following page in our docs: https://ngrok.com/docs/faq/#why-is-my-antivirus-software-reporting-the-ngrok-agent-as-a-virus--malware--or-potentially-unwanted-application-pau</description>
+    <description>An instant, secure tunnel from a public URL to your localhost server through any NAT or firewall. If your antivirus flags ngrok as a virus, malware or Potentially Unwanted Program (PUA), please view the following page in our docs: https://ngrok.com/docs/faq/#why-is-my-antivirus-software-reporting-the-ngrok-agent-as-a-virus--malware--or-potentially-unwanted-application-pau</description>
   </metadata>
   <files>
     <file src="tools/**" target="tools" />
