@@ -3,14 +3,14 @@ $packageArgs = @{
   packageName   = 'ngrok'
   unzipLocation = $toolsDir
   fileType      = 'exe'
-  url           = 'https://bin.ngrok.com/a/6zwGdDocrnP/ngrok-v3-3.39.7-windows-386.zip'
-  url64bit      = 'https://bin.ngrok.com/a/7cgQ894JTG7/ngrok-v3-3.39.7-windows-amd64.zip'
+  url           = 'https://bin.ngrok.com/a/3UfW8wTSfKL/ngrok-v3-3.39.8-windows-386.zip'
+  url64bit      = 'https://bin.ngrok.com/a/8CfTTG2KfSo/ngrok-v3-3.39.8-windows-amd64.zip'
 
   softwareName  = 'ngrok'
 
-  checksum      = 'c263ebe19a877c2d3ff37e9a9d93e533f0fc99c4366575b41cee35eabca8379c'
+  checksum      = '0bb950bbc3d4865ff8ff634cc1c62ad68b80f3a1b1ff2e264d21b43041931906'
   checksumType  = 'sha256'
-  checksum64    = '5a0646b6c59aa6e7bd642e36444ce4e609ef821f21591009aa7f9b6c1168815d'
+  checksum64    = '56c71bb8d3c7d8f5f85e7df65b1458d0dc3806d056ea99a7a0aaa7ad5c899988'
   checksumType64= 'sha256'
 
   validExitCodes= @(0)
